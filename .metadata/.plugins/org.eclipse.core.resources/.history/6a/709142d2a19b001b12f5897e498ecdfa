@@ -195,7 +195,7 @@ public class Lab03 implements GLEventListener {
         glcanvas.addGLEventListener(l);
         glcanvas.setSize(500, 500);
         //creating frame
-        final JFrame frame = new JFrame("MidpointLineDrawingAlgorithm");
+        final JFrame frame = new JFrame("09 - 17101009");
         //adding canvas to frame
         frame.getContentPane().add(glcanvas);
         frame.setSize(frame.getContentPane().getPreferredSize());
